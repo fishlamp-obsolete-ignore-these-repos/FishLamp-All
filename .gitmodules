@@ -1,0 +1,426 @@
+[submodule "Pieces/FishLamp"]
+	path = Pieces/FishLamp
+	url = git@github.com:fishlamp/FishLamp
+[submodule "Pieces/fishlamp.github.io"]
+	path = Pieces/fishlamp.github.io
+	url = git@github.com:fishlamp/fishlamp.github.io
+[submodule "Pieces/help.fishlamp.com"]
+	path = Pieces/help.fishlamp.com
+	url = git@github.com:fishlamp/help.fishlamp.com
+[submodule "Pieces/FishLamp-Objc-Core"]
+	path = Pieces/FishLamp-Objc-Core
+	url = git@github.com:fishlamp/FishLamp-Objc-Core
+[submodule "Pieces/FishLamp-Objc-UnifiedAsync"]
+	path = Pieces/FishLamp-Objc-UnifiedAsync
+	url = git@github.com:fishlamp/FishLamp-Objc-UnifiedAsync
+[submodule "Pieces/FishLamp-Objc-Services"]
+	path = Pieces/FishLamp-Objc-Services
+	url = git@github.com:fishlamp/FishLamp-Objc-Services
+[submodule "Pieces/fishlamp-scripts"]
+	path = Pieces/fishlamp-scripts
+	url = git@github.com:fishlamp/fishlamp-scripts
+[submodule "Pieces/FishLamp-Objc-Containers"]
+	path = Pieces/FishLamp-Objc-Containers
+	url = git@github.com:fishlamp/FishLamp-Objc-Containers
+[submodule "Pieces/FishLamp-Objc-Logger"]
+	path = Pieces/FishLamp-Objc-Logger
+	url = git@github.com:fishlamp/FishLamp-Objc-Logger
+[submodule "Pieces/FishLamp-Objc-CodeGenerator"]
+	path = Pieces/FishLamp-Objc-CodeGenerator
+	url = git@github.com:fishlamp/FishLamp-Objc-CodeGenerator
+[submodule "Pieces/FishLamp-Objc-UnitTestRunner"]
+	path = Pieces/FishLamp-Objc-UnitTestRunner
+	url = git@github.com:fishlamp/FishLamp-Objc-UnitTestRunner
+[submodule "Pieces/FishLamp-Objc-ModelObject"]
+	path = Pieces/FishLamp-Objc-ModelObject
+	url = git@github.com:fishlamp/FishLamp-Objc-ModelObject
+[submodule "Pieces/FishLamp-Objc-Networking"]
+	path = Pieces/FishLamp-Objc-Networking
+	url = git@github.com:fishlamp/FishLamp-Objc-Networking
+[submodule "Pieces/PackMule"]
+	path = Pieces/PackMule
+	url = git@github.com:fishlamp/PackMule
+[submodule "Pieces/FishLamp-Objc-Encoding"]
+	path = Pieces/FishLamp-Objc-Encoding
+	url = git@github.com:fishlamp/FishLamp-Objc-Encoding
+[submodule "Pieces/FishLamp-Objc-Storage"]
+	path = Pieces/FishLamp-Objc-Storage
+	url = git@github.com:fishlamp/FishLamp-Objc-Storage
+[submodule "Pieces/FishLamp-Objc-CommandLineProcessor"]
+	path = Pieces/FishLamp-Objc-CommandLineProcessor
+	url = git@github.com:fishlamp/FishLamp-Objc-CommandLineProcessor
+[submodule "Pieces/FishLamp-Objc-ActivityLog"]
+	path = Pieces/FishLamp-Objc-ActivityLog
+	url = git@github.com:fishlamp/FishLamp-Objc-ActivityLog
+[submodule "Pieces/FishLamp-Objc-Authentication"]
+	path = Pieces/FishLamp-Objc-Authentication
+	url = git@github.com:fishlamp/FishLamp-Objc-Authentication
+[submodule "Pieces/FishLamp-Objc-CodeBuilder"]
+	path = Pieces/FishLamp-Objc-CodeBuilder
+	url = git@github.com:fishlamp/FishLamp-Objc-CodeBuilder
+[submodule "Pieces/FishLamp-Objc-ColorUtils"]
+	path = Pieces/FishLamp-Objc-ColorUtils
+	url = git@github.com:fishlamp/FishLamp-Objc-ColorUtils
+[submodule "Pieces/FishLamp-Objc-GeometryUtils"]
+	path = Pieces/FishLamp-Objc-GeometryUtils
+	url = git@github.com:fishlamp/FishLamp-Objc-GeometryUtils
+[submodule "Pieces/FishLamp-Objc-BundleUtils"]
+	path = Pieces/FishLamp-Objc-BundleUtils
+	url = git@github.com:fishlamp/FishLamp-Objc-BundleUtils
+[submodule "Pieces/FishLamp-Objc-UnitTests"]
+	path = Pieces/FishLamp-Objc-UnitTests
+	url = git@github.com:fishlamp/FishLamp-Objc-UnitTests
+[submodule "Pieces/FishLamp-Objc-Timer"]
+	path = Pieces/FishLamp-Objc-Timer
+	url = git@github.com:fishlamp/FishLamp-Objc-Timer
+[submodule "Pieces/FishLamp-OSX-XcodePlugin"]
+	path = Pieces/FishLamp-OSX-XcodePlugin
+	url = git@github.com:fishlamp/FishLamp-OSX-XcodePlugin
+[submodule "Pieces/FishLamp-Objc-NeedsRefactoring"]
+	path = Pieces/FishLamp-Objc-NeedsRefactoring
+	url = git@github.com:fishlamp/FishLamp-Objc-NeedsRefactoring
+[submodule "Pieces/FishLamp-Objc-Strings"]
+	path = Pieces/FishLamp-Objc-Strings
+	url = git@github.com:fishlamp/FishLamp-Objc-Strings
+[submodule "Pieces/FishLamp-Objc-Utils"]
+	path = Pieces/FishLamp-Objc-Utils
+	url = git@github.com:fishlamp/FishLamp-Objc-Utils
+[submodule "Pieces/FishLamp-Objc-Compatibility"]
+	path = Pieces/FishLamp-Objc-Compatibility
+	url = git@github.com:fishlamp/FishLamp-Objc-Compatibility
+[submodule "Pieces/FishLamp-Connect-Experimental"]
+	path = Pieces/FishLamp-Connect-Experimental
+	url = git@github.com:fishlamp/FishLamp-Connect-Experimental
+[submodule "Pieces/FishLamp-Connect-Facebook"]
+	path = Pieces/FishLamp-Connect-Facebook
+	url = git@github.com:fishlamp/FishLamp-Connect-Facebook
+[submodule "Pieces/FishLamp-Connect-Parse"]
+	path = Pieces/FishLamp-Connect-Parse
+	url = git@github.com:fishlamp/FishLamp-Connect-Parse
+[submodule "Pieces/FishLamp-Connect-Twitter"]
+	path = Pieces/FishLamp-Connect-Twitter
+	url = git@github.com:fishlamp/FishLamp-Connect-Twitter
+[submodule "Pieces/FishLamp-Objc-Deprecated"]
+	path = Pieces/FishLamp-Objc-Deprecated
+	url = git@github.com:fishlamp/FishLamp-Objc-Deprecated
+[submodule "Pieces/FishLamp-Objc-Experimental"]
+	path = Pieces/FishLamp-Objc-Experimental
+	url = git@github.com:fishlamp/FishLamp-Objc-Experimental
+[submodule "Pieces/FishLamp-External"]
+	path = Pieces/FishLamp-External
+	url = git@github.com:fishlamp/FishLamp-External
+[submodule "Pieces/FishLamp-Objc-Files"]
+	path = Pieces/FishLamp-Objc-Files
+	url = git@github.com:fishlamp/FishLamp-Objc-Files
+[submodule "Pieces/FishLamp-Images"]
+	path = Pieces/FishLamp-Images
+	url = git@github.com:fishlamp/FishLamp-Images
+[submodule "Pieces/FishLamp-Objc-Notifications"]
+	path = Pieces/FishLamp-Objc-Notifications
+	url = git@github.com:fishlamp/FishLamp-Objc-Notifications
+[submodule "Pieces/FishLamp-OSX-ActivityLogViewController"]
+	path = Pieces/FishLamp-OSX-ActivityLogViewController
+	url = git@github.com:fishlamp/FishLamp-OSX-ActivityLogViewController
+[submodule "Pieces/FishLamp-OSX-BreadcrumbBarView"]
+	path = Pieces/FishLamp-OSX-BreadcrumbBarView
+	url = git@github.com:fishlamp/FishLamp-OSX-BreadcrumbBarView
+[submodule "Pieces/FishLamp-OSX-Cocos2d"]
+	path = Pieces/FishLamp-OSX-Cocos2d
+	url = git@github.com:fishlamp/FishLamp-OSX-Cocos2d
+[submodule "Pieces/FishLamp-OSX-CommandLineTool"]
+	path = Pieces/FishLamp-OSX-CommandLineTool
+	url = git@github.com:fishlamp/FishLamp-OSX-CommandLineTool
+[submodule "Pieces/FishLamp-OSX-Documents"]
+	path = Pieces/FishLamp-OSX-Documents
+	url = git@github.com:fishlamp/FishLamp-OSX-Documents
+[submodule "Pieces/FishLamp-OSX-ErrorViewController"]
+	path = Pieces/FishLamp-OSX-ErrorViewController
+	url = git@github.com:fishlamp/FishLamp-OSX-ErrorViewController
+[submodule "Pieces/FishLamp-OSX-FileDropTableViewController"]
+	path = Pieces/FishLamp-OSX-FileDropTableViewController
+	url = git@github.com:fishlamp/FishLamp-OSX-FileDropTableViewController
+[submodule "Pieces/FishLamp-OSX-HttpController"]
+	path = Pieces/FishLamp-OSX-HttpController
+	url = git@github.com:fishlamp/FishLamp-OSX-HttpController
+[submodule "Pieces/FishLamp-OSX-TextViewController"]
+	path = Pieces/FishLamp-OSX-TextViewController
+	url = git@github.com:fishlamp/FishLamp-OSX-TextViewController
+[submodule "Pieces/FishLamp-OSX-TextViewLogger"]
+	path = Pieces/FishLamp-OSX-TextViewLogger
+	url = git@github.com:fishlamp/FishLamp-OSX-TextViewLogger
+[submodule "Pieces/FishLamp-OSX-Utils"]
+	path = Pieces/FishLamp-OSX-Utils
+	url = git@github.com:fishlamp/FishLamp-OSX-Utils
+[submodule "Pieces/FishLamp-OSX-ViewController"]
+	path = Pieces/FishLamp-OSX-ViewController
+	url = git@github.com:fishlamp/FishLamp-OSX-ViewController
+[submodule "Pieces/FishLamp-OSX-Views"]
+	path = Pieces/FishLamp-OSX-Views
+	url = git@github.com:fishlamp/FishLamp-OSX-Views
+[submodule "Pieces/FishLamp-OSX-WizardViewController"]
+	path = Pieces/FishLamp-OSX-WizardViewController
+	url = git@github.com:fishlamp/FishLamp-OSX-WizardViewController
+[submodule "Pieces/FishLamp-UI-Animations"]
+	path = Pieces/FishLamp-UI-Animations
+	url = git@github.com:fishlamp/FishLamp-UI-Animations
+[submodule "Pieces/FishLamp-UI-BoxArranger"]
+	path = Pieces/FishLamp-UI-BoxArranger
+	url = git@github.com:fishlamp/FishLamp-UI-BoxArranger
+[submodule "Pieces/FishLamp-UI-Drawable"]
+	path = Pieces/FishLamp-UI-Drawable
+	url = git@github.com:fishlamp/FishLamp-UI-Drawable
+[submodule "Pieces/FishLamp-UI-GradientView"]
+	path = Pieces/FishLamp-UI-GradientView
+	url = git@github.com:fishlamp/FishLamp-UI-GradientView
+[submodule "Pieces/FishLamp-UI-Progress"]
+	path = Pieces/FishLamp-UI-Progress
+	url = git@github.com:fishlamp/FishLamp-UI-Progress
+[submodule "Pieces/FishLamp-UI-Slideshow"]
+	path = Pieces/FishLamp-UI-Slideshow
+	url = git@github.com:fishlamp/FishLamp-UI-Slideshow
+[submodule "Pieces/FishLamp-UI-StatusBarView"]
+	path = Pieces/FishLamp-UI-StatusBarView
+	url = git@github.com:fishlamp/FishLamp-UI-StatusBarView
+[submodule "Pieces/FishLamp-UI-Theme"]
+	path = Pieces/FishLamp-UI-Theme
+	url = git@github.com:fishlamp/FishLamp-UI-Theme
+[submodule "Pieces/FishLamp-UI-TilingImageView"]
+	path = Pieces/FishLamp-UI-TilingImageView
+	url = git@github.com:fishlamp/FishLamp-UI-TilingImageView
+[submodule "Pieces/FishLamp-UI-ToolbarView"]
+	path = Pieces/FishLamp-UI-ToolbarView
+	url = git@github.com:fishlamp/FishLamp-UI-ToolbarView
+[submodule "Pieces/FishLamp-UI-View"]
+	path = Pieces/FishLamp-UI-View
+	url = git@github.com:fishlamp/FishLamp-UI-View
+[submodule "Pieces/FishLamp-UI-ViewController"]
+	path = Pieces/FishLamp-UI-ViewController
+	url = git@github.com:fishlamp/FishLamp-UI-ViewController
+[submodule "Pieces/FishLamp-UI-ViewControllerStack"]
+	path = Pieces/FishLamp-UI-ViewControllerStack
+	url = git@github.com:fishlamp/FishLamp-UI-ViewControllerStack
+[submodule "Pieces/FishLamp-UI-Widget"]
+	path = Pieces/FishLamp-UI-Widget
+	url = git@github.com:fishlamp/FishLamp-UI-Widget
+[submodule "Pieces/FishLamp-iOS-Alerts"]
+	path = Pieces/FishLamp-iOS-Alerts
+	url = git@github.com:fishlamp/FishLamp-iOS-Alerts
+[submodule "Pieces/FishLamp-iOS-Application"]
+	path = Pieces/FishLamp-iOS-Application
+	url = git@github.com:fishlamp/FishLamp-iOS-Application
+[submodule "Pieces/FishLamp-iOS-Arrangement"]
+	path = Pieces/FishLamp-iOS-Arrangement
+	url = git@github.com:fishlamp/FishLamp-iOS-Arrangement
+[submodule "Pieces/FishLamp-iOS-AssetsLibrary"]
+	path = Pieces/FishLamp-iOS-AssetsLibrary
+	url = git@github.com:fishlamp/FishLamp-iOS-AssetsLibrary
+[submodule "Pieces/FishLamp-iOS-AuxiliaryViewController"]
+	path = Pieces/FishLamp-iOS-AuxiliaryViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-AuxiliaryViewController
+[submodule "Pieces/FishLamp-iOS-Buttons"]
+	path = Pieces/FishLamp-iOS-Buttons
+	url = git@github.com:fishlamp/FishLamp-iOS-Buttons
+[submodule "Pieces/FishLamp-iOS-Camera"]
+	path = Pieces/FishLamp-iOS-Camera
+	url = git@github.com:fishlamp/FishLamp-iOS-Camera
+[submodule "Pieces/FishLamp-iOS-CameraExifViewController"]
+	path = Pieces/FishLamp-iOS-CameraExifViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-CameraExifViewController
+[submodule "Pieces/FishLamp-iOS-CameraPhotoViewController"]
+	path = Pieces/FishLamp-iOS-CameraPhotoViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-CameraPhotoViewController
+[submodule "Pieces/FishLamp-iOS-CameraViewController"]
+	path = Pieces/FishLamp-iOS-CameraViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-CameraViewController
+[submodule "Pieces/FishLamp-iOS-Connect"]
+	path = Pieces/FishLamp-iOS-Connect
+	url = git@github.com:fishlamp/FishLamp-iOS-Connect
+[submodule "Pieces/FishLamp-iOS-Controls"]
+	path = Pieces/FishLamp-iOS-Controls
+	url = git@github.com:fishlamp/FishLamp-iOS-Controls
+[submodule "Pieces/FishLamp-iOS-CropImageViewController"]
+	path = Pieces/FishLamp-iOS-CropImageViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-CropImageViewController
+[submodule "Pieces/FishLamp-iOS-Debug"]
+	path = Pieces/FishLamp-iOS-Debug
+	url = git@github.com:fishlamp/FishLamp-iOS-Debug
+[submodule "Pieces/FishLamp-iOS-Deprecated"]
+	path = Pieces/FishLamp-iOS-Deprecated
+	url = git@github.com:fishlamp/FishLamp-iOS-Deprecated
+[submodule "Pieces/FishLamp-iOS-Dialogs"]
+	path = Pieces/FishLamp-iOS-Dialogs
+	url = git@github.com:fishlamp/FishLamp-iOS-Dialogs
+[submodule "Pieces/FishLamp-iOS-Dragging"]
+	path = Pieces/FishLamp-iOS-Dragging
+	url = git@github.com:fishlamp/FishLamp-iOS-Dragging
+[submodule "Pieces/FishLamp-iOS-EditObjectViewController"]
+	path = Pieces/FishLamp-iOS-EditObjectViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-EditObjectViewController
+[submodule "Pieces/FishLamp-iOS-ErrorStringFormatters"]
+	path = Pieces/FishLamp-iOS-ErrorStringFormatters
+	url = git@github.com:fishlamp/FishLamp-iOS-ErrorStringFormatters
+[submodule "Pieces/FishLamp-iOS-FloatingViewController"]
+	path = Pieces/FishLamp-iOS-FloatingViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-FloatingViewController
+[submodule "Pieces/FishLamp-iOS-Fluffy"]
+	path = Pieces/FishLamp-iOS-Fluffy
+	url = git@github.com:fishlamp/FishLamp-iOS-Fluffy
+[submodule "Pieces/FishLamp-iOS-Forms"]
+	path = Pieces/FishLamp-iOS-Forms
+	url = git@github.com:fishlamp/FishLamp-iOS-Forms
+[submodule "Pieces/FishLamp-iOS-Galleries"]
+	path = Pieces/FishLamp-iOS-Galleries
+	url = git@github.com:fishlamp/FishLamp-iOS-Galleries
+[submodule "Pieces/FishLamp-iOS-GridViewController"]
+	path = Pieces/FishLamp-iOS-GridViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-GridViewController
+[submodule "Pieces/FishLamp-iOS-HeirarchicalGridViewController"]
+	path = Pieces/FishLamp-iOS-HeirarchicalGridViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-HeirarchicalGridViewController
+[submodule "Pieces/FishLamp-iOS-HtmlHelpViewController"]
+	path = Pieces/FishLamp-iOS-HtmlHelpViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-HtmlHelpViewController
+[submodule "Pieces/FishLamp-iOS-Keyboard"]
+	path = Pieces/FishLamp-iOS-Keyboard
+	url = git@github.com:fishlamp/FishLamp-iOS-Keyboard
+[submodule "Pieces/FishLamp-iOS-LengthyTaskProgressViewController"]
+	path = Pieces/FishLamp-iOS-LengthyTaskProgressViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-LengthyTaskProgressViewController
+[submodule "Pieces/FishLamp-iOS-LoginViewController"]
+	path = Pieces/FishLamp-iOS-LoginViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-LoginViewController
+[submodule "Pieces/FishLamp-iOS-Maps"]
+	path = Pieces/FishLamp-iOS-Maps
+	url = git@github.com:fishlamp/FishLamp-iOS-Maps
+[submodule "Pieces/FishLamp-iOS-MenuViewController"]
+	path = Pieces/FishLamp-iOS-MenuViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-MenuViewController
+[submodule "Pieces/FishLamp-iOS-ModalAction"]
+	path = Pieces/FishLamp-iOS-ModalAction
+	url = git@github.com:fishlamp/FishLamp-iOS-ModalAction
+[submodule "Pieces/FishLamp-iOS-ModalPopoverController"]
+	path = Pieces/FishLamp-iOS-ModalPopoverController
+	url = git@github.com:fishlamp/FishLamp-iOS-ModalPopoverController
+[submodule "Pieces/FishLamp-iOS-ModalShieldViewController"]
+	path = Pieces/FishLamp-iOS-ModalShieldViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-ModalShieldViewController
+[submodule "Pieces/FishLamp-iOS-MultiViewController"]
+	path = Pieces/FishLamp-iOS-MultiViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-MultiViewController
+[submodule "Pieces/FishLamp-iOS-NavigationControllerViewController"]
+	path = Pieces/FishLamp-iOS-NavigationControllerViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-NavigationControllerViewController
+[submodule "Pieces/FishLamp-iOS-Network"]
+	path = Pieces/FishLamp-iOS-Network
+	url = git@github.com:fishlamp/FishLamp-iOS-Network
+[submodule "Pieces/FishLamp-iOS-NotificationViewController"]
+	path = Pieces/FishLamp-iOS-NotificationViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-NotificationViewController
+[submodule "Pieces/FishLamp-iOS-Operations"]
+	path = Pieces/FishLamp-iOS-Operations
+	url = git@github.com:fishlamp/FishLamp-iOS-Operations
+[submodule "Pieces/FishLamp-iOS-PasswordEntryViewController"]
+	path = Pieces/FishLamp-iOS-PasswordEntryViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-PasswordEntryViewController
+[submodule "Pieces/FishLamp-iOS-PhotoCollectionMapViewController"]
+	path = Pieces/FishLamp-iOS-PhotoCollectionMapViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-PhotoCollectionMapViewController
+[submodule "Pieces/FishLamp-iOS-PhotoListIteratingMapViewController"]
+	path = Pieces/FishLamp-iOS-PhotoListIteratingMapViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-PhotoListIteratingMapViewController
+[submodule "Pieces/FishLamp-iOS-PhotoMapViewController"]
+	path = Pieces/FishLamp-iOS-PhotoMapViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-PhotoMapViewController
+[submodule "Pieces/FishLamp-iOS-PhotoViewController"]
+	path = Pieces/FishLamp-iOS-PhotoViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-PhotoViewController
+[submodule "Pieces/FishLamp-iOS-PinEditingViewController"]
+	path = Pieces/FishLamp-iOS-PinEditingViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-PinEditingViewController
+[submodule "Pieces/FishLamp-iOS-ProgressViewController"]
+	path = Pieces/FishLamp-iOS-ProgressViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-ProgressViewController
+[submodule "Pieces/FishLamp-iOS-SimpleEditViewController"]
+	path = Pieces/FishLamp-iOS-SimpleEditViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-SimpleEditViewController
+[submodule "Pieces/FishLamp-iOS-SimpleHtmlViewController"]
+	path = Pieces/FishLamp-iOS-SimpleHtmlViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-SimpleHtmlViewController
+[submodule "Pieces/FishLamp-iOS-SimpleMediaPicker"]
+	path = Pieces/FishLamp-iOS-SimpleMediaPicker
+	url = git@github.com:fishlamp/FishLamp-iOS-SimpleMediaPicker
+[submodule "Pieces/FishLamp-iOS-SimpleTextEditViewController"]
+	path = Pieces/FishLamp-iOS-SimpleTextEditViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-SimpleTextEditViewController
+[submodule "Pieces/FishLamp-iOS-Slideshow"]
+	path = Pieces/FishLamp-iOS-Slideshow
+	url = git@github.com:fishlamp/FishLamp-iOS-Slideshow
+[submodule "Pieces/FishLamp-iOS-SplitViewController"]
+	path = Pieces/FishLamp-iOS-SplitViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-SplitViewController
+[submodule "Pieces/FishLamp-iOS-StringChooserViewController"]
+	path = Pieces/FishLamp-iOS-StringChooserViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-StringChooserViewController
+[submodule "Pieces/FishLamp-iOS-SwipeViewController"]
+	path = Pieces/FishLamp-iOS-SwipeViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-SwipeViewController
+[submodule "Pieces/FishLamp-iOS-TabBarController"]
+	path = Pieces/FishLamp-iOS-TabBarController
+	url = git@github.com:fishlamp/FishLamp-iOS-TabBarController
+[submodule "Pieces/FishLamp-iOS-TestFlightTrackerSink"]
+	path = Pieces/FishLamp-iOS-TestFlightTrackerSink
+	url = git@github.com:fishlamp/FishLamp-iOS-TestFlightTrackerSink
+[submodule "Pieces/FishLamp-iOS-TextEditViewController"]
+	path = Pieces/FishLamp-iOS-TextEditViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-TextEditViewController
+[submodule "Pieces/FishLamp-iOS-Themes"]
+	path = Pieces/FishLamp-iOS-Themes
+	url = git@github.com:fishlamp/FishLamp-iOS-Themes
+[submodule "Pieces/FishLamp-iOS-Touches"]
+	path = Pieces/FishLamp-iOS-Touches
+	url = git@github.com:fishlamp/FishLamp-iOS-Touches
+[submodule "Pieces/FishLamp-iOS-UIAdditions"]
+	path = Pieces/FishLamp-iOS-UIAdditions
+	url = git@github.com:fishlamp/FishLamp-iOS-UIAdditions
+[submodule "Pieces/FishLamp-iOS-UIViewAdditions"]
+	path = Pieces/FishLamp-iOS-UIViewAdditions
+	url = git@github.com:fishlamp/FishLamp-iOS-UIViewAdditions
+[submodule "Pieces/FishLamp-iOS-UIViewControllerAdditions"]
+	path = Pieces/FishLamp-iOS-UIViewControllerAdditions
+	url = git@github.com:fishlamp/FishLamp-iOS-UIViewControllerAdditions
+[submodule "Pieces/FishLamp-iOS-UncaughtExceptionHandler"]
+	path = Pieces/FishLamp-iOS-UncaughtExceptionHandler
+	url = git@github.com:fishlamp/FishLamp-iOS-UncaughtExceptionHandler
+[submodule "Pieces/FishLamp-iOS-UploadHistoryViewController"]
+	path = Pieces/FishLamp-iOS-UploadHistoryViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-UploadHistoryViewController
+[submodule "Pieces/FishLamp-iOS-UserFeedbackViewController"]
+	path = Pieces/FishLamp-iOS-UserFeedbackViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-UserFeedbackViewController
+[submodule "Pieces/FishLamp-iOS-UserSession"]
+	path = Pieces/FishLamp-iOS-UserSession
+	url = git@github.com:fishlamp/FishLamp-iOS-UserSession
+[submodule "Pieces/FishLamp-iOS-Utilities"]
+	path = Pieces/FishLamp-iOS-Utilities
+	url = git@github.com:fishlamp/FishLamp-iOS-Utilities
+[submodule "Pieces/FishLamp-iOS-ViewController"]
+	path = Pieces/FishLamp-iOS-ViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-ViewController
+[submodule "Pieces/FishLamp-iOS-Views"]
+	path = Pieces/FishLamp-iOS-Views
+	url = git@github.com:fishlamp/FishLamp-iOS-Views
+[submodule "Pieces/FishLamp-iOS-WebViewController"]
+	path = Pieces/FishLamp-iOS-WebViewController
+	url = git@github.com:fishlamp/FishLamp-iOS-WebViewController
+[submodule "Pieces/FishLamp-iOS-Widget"]
+	path = Pieces/FishLamp-iOS-Widget
+	url = git@github.com:fishlamp/FishLamp-iOS-Widget
+[submodule "Pieces/FishLamp-iOS-Widgets"]
+	path = Pieces/FishLamp-iOS-Widgets
+	url = git@github.com:fishlamp/FishLamp-iOS-Widgets
+[submodule "Pieces/Pieces-Registry"]
+	path = Pieces/Pieces-Registry
+	url = git@github.com:fishlamp/Pieces-Registry
+[submodule "Pieces/FishLamp-All"]
+	path = Pieces/FishLamp-All
+	url = git@github.com:fishlamp/FishLamp-All
